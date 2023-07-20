@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubhamsrivastava951 and I have justed completed my Masters in IT & IT Management from The University of Sydney. 
+- 👋 Hi, I’m @shubhamsrivastava951 and I have completed my Masters in IT & IT Management from The University of Sydney. 
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning all the necessary skills that are relevant to Data Science
 - 💞
