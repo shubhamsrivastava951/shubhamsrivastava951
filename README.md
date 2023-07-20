@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham, a Graduate Data Scientist from The University of Sydney. 
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning all the necessary skills that are relevant to Data Science
+- 🌱 Currently working at The University of Sydney as a Teaching Assistant for IT Postgraduate Students and exploring all the necessary skills that are relevant to Data Science
 - 💞
 - 📫 Shubhamsrivastava951@gmail.com
 
